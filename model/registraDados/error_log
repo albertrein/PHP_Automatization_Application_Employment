@@ -1,0 +1,7 @@
+[16-Jan-2019 22:37:22] PHP Fatal error:  Cannot access empty property in /home/dankhorc/public_html/autoSendCurr/model/registraDados/registraClass.php on line 15
+[16-Jan-2019 22:38:17] PHP Fatal error:  Cannot access empty property in /home/dankhorc/public_html/autoSendCurr/model/registraDados/registraClass.php on line 16
+[16-Jan-2019 23:05:34] PHP Parse error:  syntax error, unexpected T_VAR, expecting T_VARIABLE in /home/dankhorc/public_html/autoSendCurr/model/registraDados/registraClass.php on line 7
+[16-Jan-2019 23:11:03] PHP Warning:  Missing argument 1 for regitraNovosCurricos::__construct(), called in /home/dankhorc/public_html/autoSendCurr/model/registraDados/registraClass.php on line 32 and defined in /home/dankhorc/public_html/autoSendCurr/model/registraDados/registraClass.php on line 10
+[16-Jan-2019 23:11:03] PHP Warning:  Missing argument 2 for regitraNovosCurricos::__construct(), called in /home/dankhorc/public_html/autoSendCurr/model/registraDados/registraClass.php on line 32 and defined in /home/dankhorc/public_html/autoSendCurr/model/registraDados/registraClass.php on line 10
+[16-Jan-2019 23:11:33] PHP Fatal error:  Cannot redeclare regitraNovosCurricos::__construct() in /home/dankhorc/public_html/autoSendCurr/model/registraDados/registraClass.php on line 12
+[16-Jan-2019 23:17:10] PHP Fatal error:  Call to undefined function  testesubmetodo() in /home/dankhorc/public_html/autoSendCurr/model/registraDados/registraClass.php on line 21

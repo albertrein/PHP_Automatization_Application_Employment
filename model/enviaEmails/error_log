@@ -1,0 +1,21 @@
+[08-Jan-2019 18:18:15 America/Chicago] PHP Warning:  file_get_contents(../view/templateEmail/default.html): failed to open stream: No such file or directory in /home/dankhorc/public_html/autoSendCurr/model/enviaEmails/testeCapturaTemplate.php on line 8
+[08-Jan-2019 18:23:06 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/dankhorc/public_html/autoSendCurr/model/enviaEmails/testeCapturaTemplate.php on line 10
+[08-Jan-2019 22:53:14] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/dankhorc/public_html/autoSendCurr/model/enviaEmails/index.php on line 7
+[08-Jan-2019 22:54:43] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/dankhorc/public_html/autoSendCurr/model/enviaEmails/index.php on line 7
+[08-Jan-2019 22:55:20] PHP Parse error:  syntax error, unexpected '{' in /home/dankhorc/public_html/autoSendCurr/model/enviaEmails/index.php on line 52
+[08-Jan-2019 22:55:54] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/dankhorc/public_html/autoSendCurr/model/enviaEmails/index.php on line 54
+[08-Jan-2019 23:29:19] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/dankhorc/public_html/autoSendCurr/model/enviaEmails/index.php on line 65
+[08-Jan-2019 23:38:48] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/dankhorc/public_html/autoSendCurr/model/enviaEmails/testeCapturaTemplate.php on line 10
+[08-Jan-2019 23:43:43] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/dankhorc/public_html/autoSendCurr/model/enviaEmails/index.php on line 7
+[18-Jan-2019 08:30:01] PHP Parse error:  syntax error, unexpected '}' in /home/dankhorc/public_html/autoSendCurr/model/telegramNotify/telegramMessageClass.php on line 22
+[19-Jan-2019 08:30:01] PHP Parse error:  syntax error, unexpected '}' in /home/dankhorc/public_html/autoSendCurr/model/telegramNotify/telegramMessageClass.php on line 22
+[19-Jan-2019 12:16:23] PHP Parse error:  syntax error, unexpected '}' in /home/dankhorc/public_html/autoSendCurr/model/telegramNotify/telegramMessageClass.php on line 22
+[19-Jan-2019 12:17:40] PHP Parse error:  syntax error, unexpected '}' in /home/dankhorc/public_html/autoSendCurr/model/telegramNotify/telegramMessageClass.php on line 22
+[19-Jan-2019 12:17:49] PHP Fatal error:  Using $this when not in object context in /home/dankhorc/public_html/autoSendCurr/model/telegramNotify/telegramMessageClass.php on line 21
+[03-Feb-2019 22:39:11] PHP Warning:  file_get_contents(../../view/templateEmail/temp41.html): failed to open stream: No such file or directory in /home/dankhorc/public_html/autoSendCurr/model/enviaEmails/testeCapturaTemplate.php on line 7
+[03-Feb-2019 22:40:48] PHP Parse error:  syntax error, unexpected '{' in /home/dankhorc/public_html/autoSendCurr/model/enviaEmails/testeCapturaTemplate.php on line 7
+[03-Feb-2019 22:41:38] PHP Parse error:  syntax error, unexpected '{' in /home/dankhorc/public_html/autoSendCurr/model/enviaEmails/testeCapturaTemplate.php on line 7
+[03-Feb-2019 22:42:25] PHP Warning:  file_get_contents(../../view/templateEmail/temp41.html): failed to open stream: No such file or directory in /home/dankhorc/public_html/autoSendCurr/model/enviaEmails/testeCapturaTemplate.php on line 7
+[03-Feb-2019 22:43:37] PHP Warning:  file_get_contents(../../view/templateEmail/temp41.html): failed to open stream: No such file or directory in /home/dankhorc/public_html/autoSendCurr/model/enviaEmails/testeCapturaTemplate.php on line 8
+[03-Feb-2019 22:45:43] PHP Warning:  file_get_contents(../../view/templateEmail/temp41.html): failed to open stream: No such file or directory in /home/dankhorc/public_html/autoSendCurr/model/enviaEmails/testeCapturaTemplate.php on line 8
+[03-Feb-2019 22:46:46] PHP Warning:  file_get_contents(../../view/templateEmail/temp41.html): failed to open stream: No such file or directory in /home/dankhorc/public_html/autoSendCurr/model/enviaEmails/testeCapturaTemplate.php on line 8
