@@ -15,7 +15,7 @@
 	$date = date('d/m/Y');
 
 	//Criando conexão
-	$conn = mysqli_connect("localhost", "dankhorc_alberto","1q2w3e4r5t6","dankhorc_albertodev");
+	$conn = mysqli_connect("localhost", "user","pass","db");
 
 	//verificando se o email já existe no banco
 	emailExists($conn, $objetoJSON["email"]);
